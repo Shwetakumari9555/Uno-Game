@@ -15,7 +15,10 @@ This project is a simple Uno game clone implemented using HTML, CSS, and JavaScr
 ## Interface
 
 ![Game Interface](images/interface.png)
-*Caption: The user-friendly interface makes playing Uno a breeze.*
+![Image description](![Home](https://github.com/Shwetakumari9555/Uno-Game/assets/119477006/c3faebc3-f946-4f0d-b140-a05a965b30ed)
+
+
+endly interface makes playing Uno a breeze.*
 
 ### Installation
 
